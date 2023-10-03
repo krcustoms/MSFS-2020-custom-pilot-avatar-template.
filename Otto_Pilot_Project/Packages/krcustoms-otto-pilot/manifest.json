@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "MISC",
+  "title": "krcustoms-otto-pilot",
+  "manufacturer": "",
+  "creator": "krcustoms",
+  "package_version": "0.0.1",
+  "minimum_game_version": "1.24.5",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Humans/Pilot/images/OTTO.PNG",
+      "size": 505191,
+      "date": 132923030192001691
+    },
+    {
+      "path": "SimObjects/Humans/Pilot/model.Pilot_Otto_Pilot/model.CFG",
+      "size": 37,
+      "date": 132923030192161720
+    },
+    {
+      "path": "SimObjects/Humans/Pilot/model.Pilot_Otto_Pilot/Pilot_Otto_Pilot.xml",
+      "size": 1625,
+      "date": 132926893329167332
+    },
+    {
+      "path": "SimObjects/Humans/Pilot/model.Pilot_Otto_Pilot/Pilot_Otto_Pilot_LOD00.bin",
+      "size": 947588,
+      "date": 132927939904116706
+    },
+    {
+      "path": "SimObjects/Humans/Pilot/model.Pilot_Otto_Pilot/Pilot_Otto_Pilot_LOD00.gltf",
+      "size": 94665,
+      "date": 132927939904126715
+    },
+    {
+      "path": "SimObjects/Humans/Pilot/sim.cfg",
+      "size": 6467,
+      "date": 132923030191795869
+    },
+    {
+      "path": "SimObjects/Humans/Pilot/texture/OTTO_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132927939899945763
+    },
+    {
+      "path": "SimObjects/Humans/Pilot/texture/OTTO_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132927939899915755
+    },
+    {
+      "path": "SimObjects/Humans/Pilot/texture/OTTO_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 132927939902946442
+    },
+    {
+      "path": "SimObjects/Humans/Pilot/texture/OTTO_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 132927939902926435
+    },
+    {
+      "path": "SimObjects/Humans/Pilot/texture/OTTO_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132927939901556128
+    },
+    {
+      "path": "SimObjects/Humans/Pilot/texture/OTTO_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132927939901526118
+    }
+  ]
+}

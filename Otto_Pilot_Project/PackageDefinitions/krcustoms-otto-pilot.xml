@@ -1,0 +1,23 @@
+<AssetPackage Name="krcustoms-otto-pilot" Version="0.0.1">
+	<ItemSettings>
+		<ContentType>MISC</ContentType>
+		<Title>krcustoms-otto-pilot</Title>
+		<Manufacturer/>
+		<Creator>krcustoms</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>true</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="otto-pilot">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\Humans\Pilot\</AssetDir>
+			<OutputDir>SimObjects\Humans\Pilot\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
